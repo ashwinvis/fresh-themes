@@ -85,6 +85,8 @@
   pdfsubject={},
   pdfkeywords={}
 }
+%Needed for bibliography
+\RequirePackage{bibentry}
 
 
 %-------------------------------------------------------------------------------
